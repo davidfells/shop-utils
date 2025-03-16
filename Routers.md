@@ -1,0 +1,10 @@
+## Routers
+| Setting | Milwaukee 6525 | Milwaukee M18 Trim | Festool OF 1400
+|---|-----|-------|-----|
+| 1 | 10k | 10k   | 10k |
+| 2 | 12k | 12.4k | 13k | 
+| 3 | 14k | 14.8k | 16k | 
+| 4 | 16k | 17.2k | 19k | 
+| 5 | 18k | 19.6k | 22k |
+| 6 | 20k | 22k   | 25k |
+| 7 | 22k | N/A   | 30k |
