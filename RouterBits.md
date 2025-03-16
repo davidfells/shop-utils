@@ -17,5 +17,3 @@ title: Routers
 | 55-502 | Lock Miter      | Small          | 14-16k  |
 | 55-503 | Lock Miter      | Large          | 12-14k  |
 | 99-036 | Tongue & Groove | Adjustable     | 12-14k  |
-
-![alt text](freud_tng_set.png)
