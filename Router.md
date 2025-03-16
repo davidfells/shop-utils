@@ -7,10 +7,9 @@
 ### Milwaukee M18 Trim 
 
 ## Router Bits
-```markdown
+
 | Code | Type | Min RPM | Max RPM |
 |------|------|---------|---------|
 |      |      |         |         |
 |      |      |         |         |
 |      |      |         |         |
-```
