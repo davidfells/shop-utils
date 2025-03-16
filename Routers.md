@@ -1,4 +1,7 @@
-## Routers
+---
+layout: page
+title: Routers
+---
 | Setting | 6525 | M18   | OF 1400 |
 |---------|------|-------|---------|
 | 1       | 10k  | 10k   | 10k     |

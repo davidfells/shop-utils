@@ -1,4 +1,7 @@
-## Router Bits
+---
+layout: page
+title: Routers
+---
 | Code   | Type            | Size           | RPMs    |
 |--------|-----------------|----------------|---------|
 | 2000A  | Roundover       | 1/16"          | 16k-18k |
