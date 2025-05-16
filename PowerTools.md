@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Hand Power Tools
+title: Power Tools
 ---
-
+  
 ## Routers
 - [OF1400 Router](manuals/of1400_manual.pdf)
 - [LR32 Hole System](manuals/lr32_manual.PDF)
@@ -21,11 +21,12 @@ title: Hand Power Tools
 - [RO 150](manuals/ro150.pdf)
 
 ## Saws
+- [Laguna 14 BX Bandsaw](manuals/bandsaw.pdf)
 - [KS 120](manuals/ks120.pdf)
 - [PB 420](manuals/ps420.pdf)
 - [TSC 55](manuals/tsc55.pdf)
 
 ## Other
 - [DF 500](manuals/df500.pdf)
-- [CT 26](manuals/ct26.pdf)
-- [CT 48 AC](manuals/ct36ac.pdf)
+- [Oliver 10045 Planer](manuals/planer.pdf)
+- [Grizzly G0858 Jointer](manuals/jointer.pdf)
