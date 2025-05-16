@@ -11,3 +11,4 @@ include:
   - HandToolManuals.md
   - DCManuals.md
   - DustCollection.md
+markdown: kramdown
