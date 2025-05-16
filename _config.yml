@@ -7,5 +7,8 @@ include:
   - Routers.md
   - RouterBits.md
   - RouterBitTongueAndGroove.md
-  - Manuals.md
-  - DustCollection
+  - HandPowerToolManuals.md
+  - HandToolManuals.md
+  - StationaryPowerToolManuals.md
+  - DCManuals.md
+  - DustCollection.md
