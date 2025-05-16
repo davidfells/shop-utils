@@ -30,3 +30,5 @@ title: Power Tools
 - [DF 500](manuals/df500.pdf){:target="_blank"}
 - [Oliver 10045 Planer](manuals/planer.pdf){:target="_blank"}
 - [Grizzly G0858 Jointer](manuals/jointer.pdf){:target="_blank"}
+- [Virutex AG98F Edge Bander](manuals/ag98f_edgebander.pdf)
+- [Excel 5 Vacuum](manuals/excel5_vac.pdf)
