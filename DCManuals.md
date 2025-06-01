@@ -10,4 +10,3 @@ title: Dust Collection
 - [CT 26](manuals/ct26.pdf){:target="_blank"}
 - [CT 48 AC](manuals/ct36ac.pdf){:target="_blank"}
 - [Grit Automation](manuals/grit_manual_short.pdf)
-- [Grit Test Data](files/grit_test_data.json)
